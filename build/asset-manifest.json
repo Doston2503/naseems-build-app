@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0cc0ccda.css",
-    "main.js": "/static/js/main.3a8d6147.js",
+    "main.css": "/static/css/main.ddbfdd88.css",
+    "main.js": "/static/js/main.b7567deb.js",
     "static/js/996.ff211f2f.chunk.js": "/static/js/996.ff211f2f.chunk.js",
     "static/js/188.ed6dd1fe.chunk.js": "/static/js/188.ed6dd1fe.chunk.js",
     "static/js/37.2ff814e3.chunk.js": "/static/js/37.2ff814e3.chunk.js",
@@ -16,11 +16,11 @@
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/carousel-black-icon.svg": "/static/media/carousel-black-icon.70a944be0ae4641b566d.svg",
     "static/media/carousel-icon.svg": "/static/media/carousel-icon.e8e6ae6abad7aa17eff9.svg",
-    "main.0cc0ccda.css.map": "/static/css/main.0cc0ccda.css.map",
-    "main.3a8d6147.js.map": "/static/js/main.3a8d6147.js.map"
+    "main.ddbfdd88.css.map": "/static/css/main.ddbfdd88.css.map",
+    "main.b7567deb.js.map": "/static/js/main.b7567deb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cc0ccda.css",
-    "static/js/main.3a8d6147.js"
+    "static/css/main.ddbfdd88.css",
+    "static/js/main.b7567deb.js"
   ]
 }
